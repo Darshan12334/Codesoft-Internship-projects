@@ -1,12 +1,3 @@
-'''
-Training Multiple Faces stored on a DataBase:
-    ==> Each face should have a unique numeric integer ID as 1, 2, 3, etc
-    ==> LBPH computed model will be saved in the 'trainer/' directory. (If it does not exist, please create one.)
-    ==> For using PIL, install the Pillow library with "pip install pillow"
-
-Based on the original code by Anirban Kar: GitHub
-Developed by Marcelo Rovai - MJRoBot.org @ 21Feb18
-'''
 
 import cv2
 import numpy as np
